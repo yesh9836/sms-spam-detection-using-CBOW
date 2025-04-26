@@ -13,7 +13,6 @@ A simple and efficient SMS spam detection web app built using Machine Learning a
 ## 🚀 Live Demo
 
 👉 [Click here to try the app](  https://sms-spam-detection-using-cbow-gsarznyytmp4lpytndpbyf.streamlit.app/)
-*(Replace with your actual Streamlit link)*
 
 ## 🛠️ Tech Stack
 
@@ -24,4 +23,5 @@ A simple and efficient SMS spam detection web app built using Machine Learning a
 - Streamlit
 - Joblib (for saving models)
   
-# we can directly run the code in kaggle,colab or jupyter notebook.The code source provide as a 
+# we can directly run the code in kaggle,colab or jupyter notebook.The source code is provide in a ".ipynb" file in the repository.
+
